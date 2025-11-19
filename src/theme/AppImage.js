@@ -1,0 +1,25 @@
+
+const App_Images = {
+    notification : require('../asset/image/notification.png'),
+    profile : require('../asset/image/profile.png'),
+    bike : require('../asset/image/bike.png'),
+    thunder : require('../asset/image/thunder.png'),
+    timer : require('../asset/image/timer.png'),
+    history : require('../asset/image/history.png'),
+    history_selected : require('../asset/image/history_selected.png'),
+    timer_outline : require('../asset/image/timer_outline.png'),
+    thunder_outline : require('../asset/image/thunder_outline.png'),
+    credit_card : require('../asset/image/credit_card.png'),
+    faq : require('../asset/image/faq.png'),
+    invitation : require('../asset/image/invitation.png'),
+    Setting : require('../asset/image/setting.png'),
+    history_pro : require('../asset/image/history_pro.png'),
+    signout : require('../asset/image/signout.png'),
+    filter : require('../asset/image/filter.png'),
+    photo : require('../asset/image/photo.jpg'),
+    imageBox : require('../asset/image/imageBox.png'),
+    selected_bike : require('../asset/image/selected_bike.png'),
+    car : require('../asset/image/car.png'),
+    lorry : require('../asset/image/lorry.png'),
+}
+export default App_Images;
