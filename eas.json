@@ -3,12 +3,18 @@
     "development": {
       "developmentClient": true,
       "distribution": "internal",
+      "cli": {
+        "requireCommit": true
+      },
       "android": {
         "buildType": "apk"
       }
     },
     "preview": {
       "distribution": "internal",
+      "cli": {
+        "requireCommit": true
+      },
       "android": {
         "buildType": "apk"
       }
